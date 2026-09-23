@@ -1,4 +1,4 @@
-# ContentAI - AI-Powered Content Generation Platform
+# Catalyst AI - AI-Powered Content Generation Platform
 
 A modern, full-stack AI content generation platform inspired by Jasper.ai. Built with React, Node.js, Express, and OpenAI API.
 
